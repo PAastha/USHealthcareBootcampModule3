@@ -1,0 +1,35 @@
+
+.headline{
+    color:tomato
+
+}
+.red{
+    font-weight: bold;
+    color:red;
+}
+.imagestyle{
+    display: block;
+    margin: 0 auto;
+    width:50%;
+    height:50%
+
+}
+
+.title-text{
+    display:inline-block;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+th, td {
+    padding: 15px;
+  }
+th, td {
+    margin: 15px;
+  }
+th{
+    background-color: aqua;
+}
+ul{
+    list-style-type:disc;
+}
